@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "7d273aa1-02b7-4950-87e2-ac7a0cb12f92",
+      "name": "joe",
+      "email": "johnson@gmail.com"
+    },
+    {
+      "id": "7726ca4a-417b-4bbc-b358-6b7c1c0e825f",
+      "name": "david",
+      "email": "david@gmail.com"
+    },
+    {
+      "id": "838d43bd-0bdb-4886-b67b-e4ffcad16692",
+      "name": "emily",
+      "email": "emily@yahoo.com"
+    },
+    {
+      "id": "56494501-9b11-4a90-965f-90bd385668dc",
+      "name": "andrew ly is dope",
+      "email": "andrew@gmail.com"
+    }
+  ]
+}
